@@ -1,4 +1,12 @@
-这是一个基于 https://github.com/HsingYun/UWF-Manager 的uwf-manager 改进版，为了提升uwf 管理易用性，加入了鼠标悬停时候托盘信息显示
+这是一个基于 https://github.com/HsingYun/UWF-Manager 的uwf-manager 改进版，为了提升uwf 管理易用性，加入了鼠标悬停时候托盘图标简要信息显示
+<img width="664" height="268" alt="image" src="https://github.com/user-attachments/assets/8f8220e1-0c68-4df0-8491-900b4ea6b2ef" />
+
+加入托盘图标右键UWF 详细使用情况显示
+
+加入点击退出后最小化到托盘
+
+
+
 
 
 # UWF Manager
