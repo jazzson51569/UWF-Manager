@@ -1,3 +1,6 @@
+这是一个基于 https://github.com/HsingYun/UWF-Manager 的uwf-manager 改进版，为了提升uwf 管理易用性，加入了鼠标悬停时候托盘信息显示
+
+
 # UWF Manager
 
 A Qt GUI for the Windows Unified Write Filter (UWF) — a convenient graphical front end for inspecting and configuring UWF state, alongside the built-in `uwfmgr.exe` command line.
