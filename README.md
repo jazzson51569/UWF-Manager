@@ -1,13 +1,15 @@
-这是一个基于 https://github.com/HsingYun/UWF-Manager 的uwf-manager 改进版，为了提升uwf 管理易用性，加入了鼠标悬停时候托盘图标简要信息显示
-<img width="664" height="268" alt="image" src="https://github.com/user-attachments/assets/8f8220e1-0c68-4df0-8491-900b4ea6b2ef" />
+这是一个基于 https://github.com/HsingYun/UWF-Manager 的uwf-manager 改进版
 
-加入托盘图标右键UWF 详细使用情况显示（电脑本次开机时长，覆盖层使用大小和比例）
+为了提升uwf 管理易用性，加入了鼠标悬停时候托盘图标简要信息显示
+<img width="434" height="125" alt="{CB000E30-2D5C-443A-97E0-A5C5DCB693C0}" src="https://github.com/user-attachments/assets/f36ef872-7745-49e6-87f4-23790f276b5d" />
+
+托盘图标右键可以显示 UWF 详细使用情况（电脑本次开机时长，覆盖层使用大小和比例）
 <img width="460" height="354" alt="28942134ef1b079ef4221cdcc627f036" src="https://github.com/user-attachments/assets/e4e9c878-9015-4415-b9e9-be508f6f263b" />
 
-加入点击退出后最小化到托盘
+在uwf-manager 中可以设置退出后最小化到托盘，作为uwf 的监控程序
 <img width="1007" height="414" alt="85f77d5fb9e2188d67ce3925897e6b21" src="https://github.com/user-attachments/assets/c951c5cb-ef0f-4574-877d-f4498ef3d8ef" />
 
-可以导出覆盖层所有文件大小，并通过excel 透视表定位覆盖层快速增长的原因
+覆盖层记录提供了导出覆盖层所有文件大小，这样可以通过excel 透视表定位覆盖层快速增长的原因
 <img width="732" height="618" alt="923cb1ef2a5084040df769ad6d177f12" src="https://github.com/user-attachments/assets/f493676a-7c4b-4cd5-98fb-0e6601313374" />
 
 
